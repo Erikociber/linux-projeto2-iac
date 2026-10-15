@@ -95,3 +95,5 @@ Este servidor web representa mais uma etapa dessa evolução.
 *Projeto desenvolvido para fins de aprendizado, experimentação e documentação prática em Linux e automação de servidores.*
 
 **Aprendendo Linux na prática, um laboratório de cada vez.** 🐧
+
+![Captura de tela do projeto](Captura%20de%20tela%202026-10-15%20202724.png)
