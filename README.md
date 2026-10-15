@@ -96,4 +96,4 @@ Este servidor web representa mais uma etapa dessa evolução.
 
 **Aprendendo Linux na prática, um laboratório de cada vez.** 🐧
 
-![Captura de tela do projeto](Captura%20de%20tela%202026-10-15%20202724.png)
+![Captura de tela](Captura%20de%20tela%202026-10-15%20202724.png)
