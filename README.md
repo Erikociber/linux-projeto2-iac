@@ -1,6 +1,6 @@
 # 🖥️ Projeto Linux: Automação de Servidor Web Caseiro
 
-**Autor:** ErikoCiber  
+**Autor:** Erikociber  
 **Área de estudo:** Linux, Administração de Servidores e Automação  
 **Projeto:** Criação automatizada de um servidor web utilizando Shell Script
 
