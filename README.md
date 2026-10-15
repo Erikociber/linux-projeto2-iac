@@ -90,7 +90,7 @@ Este servidor web representa mais uma etapa dessa evolução.
 
 ---
 
-**Repositório:** [Eriko Cyber no GitHub](https://github.com/Erikociber)
+**Repositório:** https://github.com/Erikociber/linux-projeto2-iac
 
 *Projeto desenvolvido para fins de aprendizado, experimentação e documentação prática em Linux e automação de servidores.*
 
